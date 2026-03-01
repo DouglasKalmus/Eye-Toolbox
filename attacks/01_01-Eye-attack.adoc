@@ -64,10 +64,10 @@ The attack potential that is required to build the artefacts are summarized in t
 
 |*Elapsed Time*
 |<= one week
-|1
+|3
 |<= one day
-|0
-|1
+|3
+|6
 
 |*Expertise*
 |Layman
@@ -99,7 +99,7 @@ a|
 *(Access to Biometric Characteristics)* 
 |N/A
 |
-|Non-cooperative
+|Opportunis
 |2
 |2
 
@@ -110,7 +110,7 @@ a|
 |0
 |0
 
-6+^.^|Total Attack Potential = 7 < Basic Attack Potential
+6+^.^|Total Attack Potential = 12 < Basic Attack Potential
 
 |===
 
