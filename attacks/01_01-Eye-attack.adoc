@@ -64,10 +64,10 @@ The attack potential that is required to build the artefacts are summarized in t
 
 |*Elapsed Time*
 |<= one week
-|1
+|3
 |<= one day
 |0
-|1
+|3
 
 |*Expertise*
 |Layman
